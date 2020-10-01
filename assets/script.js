@@ -199,10 +199,7 @@ $("#clearHistory").on("click", function() {
     localStorage.clear()
     location.reload()
 });
-// function clearlocalstorage() {
-    
-    
-// };
+
 
 
 
