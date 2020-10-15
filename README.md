@@ -1,3 +1,6 @@
+Deployed Website: https://nickgdam.github.io/Homework-6/
+
+
 This application is designed for the user to enter a city, and be presented with the weather forcast for the next 5 days.  Once the forcast is displayed, 
 the city is saved to local storage so the user can view the weather for that city the next time they open the app.  
 
@@ -16,7 +19,7 @@ This assignment was defineately a challenge with using an API but i managed to f
 
 
 
-Deployed Website: https://nickgdam.github.io/Homework-6/
+
 
 
 
