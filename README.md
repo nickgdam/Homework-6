@@ -6,6 +6,9 @@ This assignment was defineately a challenge with using an API but i managed to f
 ## Screenshots
 ![06-server-side-apis-homework-demo](https://user-images.githubusercontent.com/68656660/96189088-dd7ed380-0f0d-11eb-89b4-0727cb7804bb.png)
 
+![weatherss2](https://user-images.githubusercontent.com/68656660/96189305-3e0e1080-0f0e-11eb-92a7-b1900b895586.png)
+
+
 
 
 
