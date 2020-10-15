@@ -19,33 +19,3 @@ the city is saved to local storage so the user can view the weather for that cit
 
 ![weatherss2](https://user-images.githubusercontent.com/68656660/96189305-3e0e1080-0f0e-11eb-92a7-b1900b895586.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
